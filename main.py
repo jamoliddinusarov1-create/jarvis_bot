@@ -6,7 +6,7 @@ import sys
 import traceback
 from datetime import datetime
 from pathlib import Path
-
+# hfjkdsfhds
 import sounddevice as sd
 from google import genai
 from google.genai import types
